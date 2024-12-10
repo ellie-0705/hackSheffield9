@@ -1,7 +1,5 @@
 # hackSheffield9
 
-## She HACK on my A till i THON!!
-
 A project created during hackSheffield9, hosted by the University of Sheffield's Computer Science Society, by:
 * [Neehru](https://github.com/neehru)
 * [Nicole](https://github.com/nmurch)
